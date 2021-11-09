@@ -1,0 +1,36 @@
+h3, p{
+    color: black;
+}
+#cap1 {
+    right: 10%;
+    max-width: 300px;
+    left: auto;
+    padding:5px;
+    top: 15%;
+    bottom: auto;
+    font-family: cursive;
+}
+#cap2 {
+    max-width: 300px;
+    left: 15%;
+    padding:5px;
+    top: 35%;
+    bottom: auto;
+    border: seagreen 2px solid;
+    font-family: monospace;
+}
+#cap3 {
+    max-width: 300px;
+    left: 15%;
+    padding:5px;
+    top: 15%;
+    bottom: auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.cards{
+    display: inline-flex;
+    margin: 5% 15%;
+}
+#footerbar{
+    margin: 3% 5% 0 15%;
+}

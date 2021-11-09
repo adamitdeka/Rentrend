@@ -1,0 +1,12 @@
+{
+  "name": "rentrend",
+  "version": "1.0.0",
+  "description": "e-commerce site",
+  "main": " ",
+  "scripts": {
+    "start": "cd backend && npm install && npm start",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix front-end && npm run build --prefix front-end"
+  },
+  "author": "SquirrelTech",
+  "license": "ISC"
+}
